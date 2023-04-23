@@ -2,10 +2,10 @@
 This script or tool is a powerful social engineering tool🔥 for capturing and recording someone's selfie camera secretly (Front camera photo / Video recording), 
 #Usage
 <h3>In Termux</h3>
-<blockquote>
-<code>apt update && apt upgrade</code><br><br>
-<code>pkg install git python3 -y && pip install flask</code><br><br>
-<code>git clone https://github.com/abcdior/SecretCams</code><br><br>
-<code>cd SecretCams/ && sh secretcams.py</code><br><br>
-</blockquote>
+<blockquote><ol>
+<li><code>apt update && apt upgrade</code></li><br><br>
+<li><code>pkg install git python3 -y && pip install flask</code></li><br><br>
+<li><code>git clone https://github.com/abcdior/SecretCams</code></li><br><br>
+<li>code>cd SecretCams/ && sh secretcams.py</code></li><br><br>
+</ol></blockquote>
 <img src="img1.jpg" width="250px" height="300px" alt="Image 1">
