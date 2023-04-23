@@ -3,7 +3,7 @@ This script or tool is a powerful social engineering tool🔥 for capturing and 
 #Usage
 <h3>In Termux</h3>
 <blockquote><ol>
-<li><code>apt update && apt upgrade</code></li><br><br>
+<li><code>apt update && apt upgrade</code></li><br>
 <li><code>pkg install git python3 -y && pip install flask</code></li><br>
 <li><code>git clone https://github.com/abcdior/SecretCams</code></li><br>
 <li><code>cd SecretCams/ && sh secretcams.py</code></li><br>
